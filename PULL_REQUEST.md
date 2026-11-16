@@ -66,6 +66,6 @@ Tests:       3 passed, 3 total
 - [x] Documentation de la PR
 - [x] Aucune dépendance non justifiée
 
-## Hash de commit (exemple)
+## Hash de commit
 
-`a1b2c3d4e5f6...` (à remplacer par le vrai hash après push)
+`ed36dd956d80ae3f0d2d1977e6fd4d42f83c2eb2`
